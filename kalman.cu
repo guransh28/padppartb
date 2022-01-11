@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "content/drive/My Drive/cutil_inline.h"
+#include "content/drive/MyDrive/cutil_inline.h"
 #include <sys/time.h>
 #include <cuda_runtime.h>
 #include "matrix_kernel.cu"
